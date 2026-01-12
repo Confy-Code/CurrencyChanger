@@ -1,4 +1,4 @@
-### Progect: Currency Converter Mini Project
+### Project: Currency Converter Mini Project
 ### Author: Confy-Code
 
 This is a simple **currency conversion web application** built with **Python (Flask)**.  
