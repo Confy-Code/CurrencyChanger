@@ -1,4 +1,5 @@
 
+#### Author: Confy-Code
 # Currency Converter – Technical Documentation
 
 ## 1. Overview
@@ -76,5 +77,39 @@ The application uses an external currency exchange API to retrieve real-time exc
 
 ## 6. Environment Variables
 
-The following environment variable is required:
+The environment variables are required:(in this case the API keys are private by intention)
+
+---
+## 7. Error Handling
+
+- Invalid user inputs are handled gracefully
+- API request failures return user-friendly messages
+- Server-side errors are logged for debugging
+
+---
+
+## 8. Limitations
+
+- Supports only real-time exchange rates
+- No historical data support
+- No user authentication required
+
+## 9. Future Enhancements
+
+- Add historical currency conversion
+- Improve UI/UX
+- Add automated tests
+- Add caching for API responses
+- AI chatbot (trained on tax conversions of countries, currencies, ...)
+- User authetication
+- Add the analysis of the currency fluctuations
+
+---
+
+## 10. Conclusion
+
+This project demonstrates a clean and simple Flask-based web application with API integration and template rendering.  
+
+It is suitable for beginners and small-scale deployment.
+
 
