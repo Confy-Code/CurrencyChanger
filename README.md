@@ -15,7 +15,7 @@ The Currency Converter provides a clean web interface where users can:
 - Select source and target currencies (Example: from **USD* to **EUR*)
 - Instantly view the converted value
 
-#### Notice ####: 
+#### Notice: 
      Exchange rates are fetched dynamically from an external currency API.
 
 ---
@@ -40,9 +40,10 @@ The Currency Converter provides a clean web interface where users can:
 
 ## Installation & Setup
 
-#### 1. Clone the repository 
+#### 1. Clone the repository####
 
-git clone https://github.com/Confy-Code/CurrencyChanger.git
+git clone https://github.com/Confy-Code/CurrencyChanger.git####
+
 cd CurrencyChanger
 
 #### 2. Create your own virtual environment(optional)
