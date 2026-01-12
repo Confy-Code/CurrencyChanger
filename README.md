@@ -16,7 +16,7 @@ The Currency Converter provides a clean web interface where users can:
 - Instantly view the converted value
 
 #### Notice: 
-     Exchange rates are fetched dynamically from an external currency API.
+Exchange rates are fetched dynamically from an external currency API.
 
 ---
 
@@ -40,7 +40,7 @@ The Currency Converter provides a clean web interface where users can:
 
 ## Installation & Setup
 
-#### 1. Clone the repository####
+#### 1. Clone the repository
      git clone https://github.com/Confy-Code/CurrencyChanger.git
        cd CurrencyChanger
 
