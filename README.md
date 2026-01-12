@@ -41,20 +41,19 @@ The Currency Converter provides a clean web interface where users can:
 ## Installation & Setup
 
 #### 1. Clone the repository####
-
-     git clone https://github.com/Confy-Code/CurrencyChanger.git####
-
-         cd CurrencyChanger
+     git clone https://github.com/Confy-Code/CurrencyChanger.git
+       cd CurrencyChanger
 
 #### 2. Create your own virtual environment(optional)
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
+     python -m venv venv
+     source venv/bin/activate 
+      On Windows: venv\Scripts\activate
 
 #### 3.Install the progect's dependencies
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 #### Run the application and open your localhost adress via browser
-python server_serve.py
+      python server_serve.py
 
 
 ## Deployment
@@ -62,6 +61,7 @@ python server_serve.py
 Hosted on Render via link: https://currencychanger-u5yn.onrender.com
 
 Environment variables are configured via the Render dashboard
+
 Application is started using the main server file
 
 
