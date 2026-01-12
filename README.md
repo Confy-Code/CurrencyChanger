@@ -58,7 +58,7 @@ Exchange rates are fetched dynamically from an external currency API.
 
 ## Deployment
 
-Hosted on Render via link: https://currencychanger-u5yn.onrender.com
+Hosted on Render via link: (https://confy-currency-converter.onrender.com)
 
 Environment variables are configured via the Render dashboard
 
