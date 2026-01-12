@@ -97,6 +97,7 @@ The environment variables are required:(in this case the API keys are private by
 ## 9. Future Enhancements
 
 - Add historical currency conversion
+- Add more currencies.
 - Improve UI/UX
 - Add automated tests
 - Add caching for API responses
